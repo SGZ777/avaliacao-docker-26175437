@@ -1,9 +1,10 @@
 # Respostas · Avaliação Prática de Docker · ViaSerra Transportes (Turma C)
 
-Nome:
-Matrícula:
-Usuário do GitHub:
-Usuário do Docker Hub:
+Nome: Arthur de Souza Gois
+Matrícula: 26175437
+Usuário do GitHub: SGZ777
+Usuário do Docker Hub: arthursg7
+
 
 Responda com as suas palavras e com o que aconteceu na SUA máquina. Resposta curta e certa vale mais
 do que texto longo copiado. Resposta que contradiz o seu próprio Dockerfile vale zero.
